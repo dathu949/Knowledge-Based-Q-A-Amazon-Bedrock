@@ -1,4 +1,3 @@
 streamlit
-boto
-os
+boto3
 python-dotenv
